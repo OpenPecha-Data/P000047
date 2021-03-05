@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000047
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཞི་བ་ལྷ།
-  sku: LEK-PHI-004
   layers:
   - book_title
   - author
   - chapter_title
   - yigchung
+  id: LEK-PHI-004
 web_metadata:
   title:
     en: The Bodhicharyavatara
